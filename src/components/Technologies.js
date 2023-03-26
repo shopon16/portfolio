@@ -25,8 +25,9 @@ function Technologies() {
           {
             userdata.projectCard.map((value,key)=>{
               //console.log(value)
-              //console.log(typeof value.img)
-              let image = require("../img/projects/hashnodeclonepng.png")
+              //console.log(typeof value.img)       //this ensures that i am getting string
+              //let image = require(value.img)    //if i do this, i got compilation error showing can not find module
+              let image = require("../img/projects/hashnodeclonepng.png")   //this is ok
               return (
               <ProjectCard key={key}
               projectName={value.projectName} 
