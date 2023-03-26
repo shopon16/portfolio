@@ -1,0 +1,202 @@
+{
+  "social": [
+    {
+      "title": "Github",
+      "class": "fab fa-github",
+      "link": "https://github.com/shopon16"
+    },
+    {
+      "title": "Twitter",
+      "class": "fab fa-twitter",
+      "link": "https://twitter.com/shopon16"
+    },
+     {
+      "title": "Linkedin",
+      "class": "fab fa-linkedin",
+      "link": "https://linkedin.com/shopon16"
+    },
+    {
+      "title": "Facebook",
+      "class": "fab fa-facebook",
+      "link": "https://facebook.com/shopon16"
+    },
+     {
+      "title": "Codepen",
+      "class": "fab fa-codepen",
+      "link": "https://codepen.io/shopon16"
+    }
+
+  ],
+  "technologies":[
+    {
+      "title": "HTML5",
+      "class": "icon fab fa-html5"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-css3-alt"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-js"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-sass"
+    },
+    {
+      "title": "Codepen",
+      "class": "ficon fab fa-git-alt"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-bootstrap"
+    },
+    {
+      "title": "Codepen",
+      "class": "icon fab fa-react"
+    }
+  ],
+  "projectCard":[
+    {
+      "projectName": "Hahsnode Clone",
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    },
+    {
+      "projectName": "Transformed Minds",
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    },
+    {
+      "projectName": "Skeep",
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    },
+    {
+      "projectName": "Project Amba",
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    },
+    {
+      "projectName": "Hotel Zeitaku",
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    },
+    {
+      "projectName": "Windows 10 Start Menu" ,
+      "contents": "lsdfasd",
+      "img":"../img/projects/hashnodeclonepng.png",
+      "divClass":"project-image project-image-one",
+      "buttonClass":"btn btn-one",
+      "href":"https://hashnode-clone-sass.netlify.app/",
+      "tag1":"HTML5",
+      "tag2":"CSS", 
+      "link1":"https://github.com/Evavic44/hashnode-clone", 
+      "link2":"https://hashnode-clone-sass.netlify.app/"
+    }
+  ],
+  "morecard":[
+    {
+      "Link1":"https://github.com/Evavic44/Periodic-Table",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://periodic-table-ui.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Periodic Table",
+      "content":"This is a tutorial project I made to explain how powerful grid is in building complex layouts.",
+      "keyword":"HTML CSS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    },
+    {
+      "Link1":"https://github.com/Evavic44/App",
+      "title1":"Github",
+      "class1":"fab fa-github",
+      "Link2":"https://victoreke-resume.netlify.app/",
+      "title2":"Live Preview",
+      "class2":"fas fa-external-link-alt",
+      "title":"Resume",
+      "content":"A clean and simple resume. Made with HTML and CSS.",
+      "keyword":"HTML CSS JAVAS"
+    }
+  ]
+}
