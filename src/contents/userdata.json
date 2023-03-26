@@ -61,7 +61,7 @@
     {
       "projectName": "Hahsnode Clone",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/hashnodeclonepng.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",
@@ -73,7 +73,7 @@
     {
       "projectName": "Transformed Minds",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/windows-10.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",
@@ -83,9 +83,9 @@
       "link2":"https://hashnode-clone-sass.netlify.app/"
     },
     {
-      "projectName": "Skeep",
+      "projectName": "Transformed Minds",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/windows-10.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",
@@ -95,9 +95,9 @@
       "link2":"https://hashnode-clone-sass.netlify.app/"
     },
     {
-      "projectName": "Project Amba",
+      "projectName": "Transformed Minds",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/windows-10.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",
@@ -107,9 +107,9 @@
       "link2":"https://hashnode-clone-sass.netlify.app/"
     },
     {
-      "projectName": "Hotel Zeitaku",
+      "projectName": "Transformed Minds",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/windows-10.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",
@@ -119,9 +119,9 @@
       "link2":"https://hashnode-clone-sass.netlify.app/"
     },
     {
-      "projectName": "Windows 10 Start Menu" ,
+      "projectName": "Transformed Minds",
       "contents": "lsdfasd",
-      "img":"../img/projects/hashnodeclonepng.png",
+      "img":"/images/windows-10.png",
       "divClass":"project-image project-image-one",
       "buttonClass":"btn btn-one",
       "href":"https://hashnode-clone-sass.netlify.app/",

@@ -6,9 +6,7 @@ import {ProjectCard,MoreCard} from "../components/Cards"
 
 
 function Technologies() {
-
- //let image = require("../img/projects/hashnodeclonepng.png")
- //console.log(userdata.projectCard.HahsnodeClone.img)
+  
   return(
     <>
       <Social
@@ -32,7 +30,7 @@ function Technologies() {
               <ProjectCard key={key}
               projectName={value.projectName} 
               contents={value.contents}
-              img={image}
+              img={value.img}
               divClass={value.divClass}
               buttonClass={value.buttonClass}
               href={value.href}

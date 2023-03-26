@@ -7,7 +7,7 @@ export  function ProjectCard(props){
       <>
       <article className="project-content">
         <div className={props.divClass}>
-          <img src={props.img} alt="Hashnode Clone" />
+          <img src={`${process.env.PUBLIC_URL}${props.img}`} alt="Hashnode Clone" />
           <a className={props.buttonClass} href={props.href} target="_blank">Preview Link</a>
         </div>
         <div className="card-content">
