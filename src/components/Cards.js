@@ -1,6 +1,3 @@
-
-
-
 export  function ProjectCard(props){
   
     return(
@@ -8,7 +5,7 @@ export  function ProjectCard(props){
       <article className="project-content">
         <div className={props.divClass}>
           <img src={`${process.env.PUBLIC_URL}${props.img}`} alt="Hashnode Clone" />
-          <a className={props.buttonClass} href={props.href} target="_blank">Preview Link</a>
+          <a className={props.buttonClass} href={props.href} >Preview Link</a>
         </div>
         <div className="card-content">
           <h2>{props.projectName}</h2>
@@ -23,8 +20,8 @@ export  function ProjectCard(props){
               <small className="language">{props.tag3}</small>
             </div>
             <div className="project-links">
-              <a href={props.link1} target="_blank"><i className="fab fa-github" /></a>
-              <a href={props.link2} target="_blank"><i className="fas fa-external-link-alt" /></a>
+              <a href={props.link1} ><i className="fab fa-github" /></a>
+              <a href={props.link2} ><i className="fas fa-external-link-alt" /></a>
             </div>
           </div>
         </div>

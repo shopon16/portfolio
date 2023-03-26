@@ -6,7 +6,7 @@ import {ProjectCard,MoreCard} from "../components/Cards"
 
 
 function Technologies() {
-  
+
   return(
     <>
       <Social
@@ -25,7 +25,6 @@ function Technologies() {
               //console.log(value)
               //console.log(typeof value.img)       //this ensures that i am getting string
               //let image = require(value.img)    //if i do this, i got compilation error showing can not find module
-              let image = require("../img/projects/hashnodeclonepng.png")   //this is ok
               return (
               <ProjectCard key={key}
               projectName={value.projectName} 

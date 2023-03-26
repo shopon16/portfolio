@@ -53,7 +53,7 @@ function Skills() {
                       I have a strong eye for designs, which allows me to transform
                       templates into pixel-perfect code while making it accessible
                       to all users. Principles I picked up from solving various
-                      <a href="https://www.frontendmentor.io/challenges" className="link-style" target="_blank" rel="no-referrer no-opener">frontendmentor</a>
+                      <a href="https://www.frontendmentor.io/challenges" className="link-style" >frontendmentor</a>
                       challenges.
                     </p>
                   </div>

@@ -1,5 +1,4 @@
 import { Icon } from "./icons";
-import userdata from "../contents/userdata.json"
 function Social(props){
   //console.log(userdata.social.github.link);
 
