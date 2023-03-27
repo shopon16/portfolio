@@ -93,6 +93,9 @@ h4 {
   font-weight: 700;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+code {
+  white-space: pre;
+}
 
 .alert {
   display: flex;
